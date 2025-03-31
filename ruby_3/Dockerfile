@@ -1,4 +1,4 @@
-FROM public.ecr.aws/docker/library/ruby:3.2-slim
+FROM public.ecr.aws/docker/library/ruby:3-slim
 
 # This image is Debian based, apply Debian customizations
 # Configure apt
